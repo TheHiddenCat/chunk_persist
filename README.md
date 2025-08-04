@@ -6,13 +6,13 @@ A PaperMC plugin that keeps specific chunks loaded persistently, even when playe
 
 ## 📦 Features
 
-- ✅ Keep any chunk loaded using force-loading
-- ✅ Load/unload all tracked chunks manually
-- ✅ Add/remove chunks by coordinates or your current position
-- ✅ Use `~` to reference your current chunk
-- ✅ Visual debug mode with particle effects to highlight persisted chunks
-- ✅ Tab completion and permission-based access control
-- ✅ Build for PaperMC 1.21.7+
+- Keep any chunk loaded using force-loading
+- Load/unload all tracked chunks manually
+- Add/remove chunks by coordinates or your current position
+- Use `~` to reference your current chunk
+- Visual debug mode with particle effects to highlight persisted chunks
+- Tab completion and permission-based access control
+- Build for PaperMC 1.21.7+
 
 ---
 
