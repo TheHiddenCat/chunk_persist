@@ -18,7 +18,7 @@ A PaperMC plugin that keeps specific chunks loaded persistently, even when playe
 
 ## 📥 Installation
 
-1. Download the latest `.jar` file.
+1. Build the `.jar` file using Maven package.
 2. Place it in your `plugins/` directory.
 3. Restart or reload your server.
 
