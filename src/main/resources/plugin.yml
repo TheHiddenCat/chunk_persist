@@ -1,0 +1,9 @@
+name: ChunkPersist
+version: '0.1'
+main: nl.lewin.chunkPersist.ChunkPersist
+api-version: '1.21'
+commands:
+  chunkpersist:
+    description: Manage persistent chunk loading
+    usage: /chunkpersist <subcommand>
+    tab-completer: nl.lewin.chunkPersist.commands.ChunkTabCompleter
