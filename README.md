@@ -2,8 +2,6 @@
 
 A PaperMC plugin that keeps specific chunks loaded persistently, even when players are not nearby. Ideal for redstone contraptions that needs to stay active while unattended.
 
----
-
 ## 📦 Features
 
 - Keep any chunk loaded using force-loading
@@ -14,15 +12,11 @@ A PaperMC plugin that keeps specific chunks loaded persistently, even when playe
 - Tab completion and permission-based access control
 - Build for PaperMC 1.21.7+
 
----
-
 ## 📥 Installation
 
 1. Build the `.jar` file using Maven package.
 2. Place it in your `plugins/` directory.
 3. Restart or reload your server.
-
----
 
 ## 💬 Commands
 
